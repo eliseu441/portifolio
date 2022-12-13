@@ -1,0 +1,16 @@
+main {
+    background: none;
+    grid-area: main;
+    overflow-y: auto;
+  }
+  html, body {
+    height: 100%;
+  }
+  
+  
+  body {
+    display: grid;
+    align-items: flex-start;
+  }
+  
+  
