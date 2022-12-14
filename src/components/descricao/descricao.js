@@ -45,7 +45,7 @@ const Descricao = () => {
             </p>
             <p>
               - 💻 Atuo como full-stack.
-              Atualmente contratado como analista de serviços na vivo, onde diariamente tenho contato com db's como SQL server, fazendo manutenção de banco, procedures, triggers, etc, já utilizei ferramentas para deploy e gerenciamento de servidor como filezilla, putty e nginx além de criar APIS com node e suas bibliotecas além de plataformas front-end usando tecnologias como react, react-native e bootstrap.
+              Atualmente contratado como analista de serviços na vivo, onde diariamente tenho contato com db's como SQL server, fazendo manutenção de banco, procedures, triggers, etc, já utilizei ferramentas para deploy e gerenciamento de servidor como filezilla, putty e nginx além de criar APIS com node e suas bibliotecas e plataformas front-end usando tecnologias como react, react-native e bootstrap.
 
             </p>
             <p>
