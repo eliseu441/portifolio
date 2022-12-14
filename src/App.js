@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import Main from './components/main/main';
-import Descricao from './components/descricao/descricao';
 import './App.css';
 import {
   BrowserRouter ,
@@ -13,7 +12,7 @@ function App() {
     <BrowserRouter>
     <div className="container" >
     <Routes>
-          <Route path="/" element= {<Main />}{...<Descricao />}/>
+          <Route path="/" element= {<Main />}/>
     </Routes>
   </div>
     </BrowserRouter>

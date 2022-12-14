@@ -34,18 +34,6 @@ h2 {
   color: white;
 }
 
-.circulo {
-  position: absolute;
-}
-.icons {
-  position: relative;
-  cursor: pointer;
-  transition: ease 1s;
-}
-.icons:hover {
-  transform: scale(1.5);
-  background-color: rgba(255, 255, 255, 0.9);;
-}
 .avatar {
   position: relative;
   cursor: pointer;
@@ -107,13 +95,6 @@ h2 {
   flex-direction: column;
   justify-content: center;
 }
-.ferramentas{
-  align-items: center;
-  color: white;
-  margin-bottom: 0;
-  font-size: 20px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .sobre-mim p {
   font-size: 20px;
@@ -145,9 +126,6 @@ h2 {
 
 @media(max-width:950px){
 
-  .circulo {
-      display: none;
-  }
   .ajustador-2 {
       max-width: 350px;
       padding: 70px 30px;
